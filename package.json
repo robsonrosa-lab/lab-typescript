@@ -1,0 +1,30 @@
+{
+  "name": "lab-typescript",
+  "version": "1.0.0",
+  "description": "A lab to test and learn the development using typescript and other related tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonrosa/lab-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "lab",
+    "learning"
+  ],
+  "author": "robsonrosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonrosa/lab-typescript/issues"
+  },
+  "homepage": "https://github.com/robsonrosa/lab-typescript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "jasmine-core": "^2.4.1",
+    "tslint": "^3.14.0",
+    "typescript": "^1.8.10"
+  }
+}
