@@ -42,6 +42,3 @@ class Professor extends Person {
 
 let student = new Student('Alan', 'Turing'),
    professor = new Professor('Albert', 'Eistein');
-
-console.info(student.greet());
-console.info(professor.greet());
